@@ -1,0 +1,21 @@
+patient_id,age,gender,tumor_stage,tumor_size_cm,metastasis,survival_status
+P001,45,Male,Stage II,3.2,No,Alive
+P002,60,Female,Stage III,5.5,Yes,Dead
+P003,52,Male,Stage I,2.1,No,Alive
+P004,70,Male,Stage IV,7.8,Yes,Dead
+P005,63,Female,Stage II,4.3,No,Alive
+P006,55,Female,Stage III,6.0,Yes,Dead
+P007,48,Male,Stage I,2.8,No,Alive
+P008,66,Male,Stage II,5.2,No,Alive
+P009,59,Female,Stage IV,8.1,Yes,Dead
+P010,72,Male,Stage III,5.9,Yes,Dead
+P011,53,Female,Stage II,3.9,No,Alive
+P012,61,Male,Stage I,2.7,No,Alive
+P013,50,Female,Stage III,6.3,Yes,Dead
+P014,68,Male,Stage IV,7.5,Yes,Dead
+P015,57,Female,Stage II,4.0,No,Alive
+P016,64,Male,Stage I,3.1,No,Alive
+P017,62,Female,Stage III,5.8,Yes,Dead
+P018,49,Male,Stage II,2.5,No,Alive
+P019,71,Female,Stage IV,7.9,Yes,Dead
+P020,58,Male,Stage II,4.6,No,Alive
