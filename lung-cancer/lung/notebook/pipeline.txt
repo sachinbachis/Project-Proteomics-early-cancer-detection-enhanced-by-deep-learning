@@ -1,0 +1,22 @@
+70_datasets_model_proteomics/
+│
+├── notebooks/
+│   └── step1.ipynb              # Your original notebook (keep as reference)
+│
+├── src/
+│   ├── __init__.py
+│   ├── config.py                # Configuration constants
+│   ├── data_loader.py           # Data loading utilities
+│   ├── preprocessing.py         # Binning and feature extraction
+│   ├── feature_selection.py     # Stability selection
+│   ├── models.py                # Model definitions and evaluation
+│   ├── visualization.py         # Plotting functions
+│   └── main.py                  # Main execution pipeline
+│
+├── results/
+│   ├── figures/                 # Generated plots
+│   ├── models/                  # Saved models
+│   └── metrics/                 # Performance metrics
+│
+├── requirements.txt
+└── README.md
